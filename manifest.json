@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "Jardim Kids",
+  "short_name": "Jardim Kids",
+  "description": "Um espaço tranquilo para rotinas visuais e brincadeiras infantis.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9f6e7",
+  "theme_color": "#e9f6e7",
+  "icons": []
+}
